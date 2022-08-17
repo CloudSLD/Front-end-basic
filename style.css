@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.god{
+    width: 700px;
+    height: 1500px;
+    margin: 0 500px 0;
+    background-color: #EAEAEA;
+    border-radius: 1%;
+    
+   
+    
+    
+}
+
+.tituloPrincipal{
+
+
+    text-align: center;
+    
+    
+
+
+}
+
+.Ingredients{
+    text-align: center;
+}
+
+.prepared{
+    text-align: center;
+}
+
+img{
+   width: 700px; 
+   height: 700px;
+   padding: 5px;
+   border-radius: 10%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@300;600&family=Roboto:wght@100&display=swap');
+
+
+.paragrafo{
+    text-align: right;
+}
